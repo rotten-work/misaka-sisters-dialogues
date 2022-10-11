@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.zip
+/御坂妹妹对话语料需求/LCCC-base_train.json

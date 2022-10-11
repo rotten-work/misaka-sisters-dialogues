@@ -1,0 +1,7 @@
+动画台词.txt：动画里御坂妹妹的台词
+语言特点.txt：御坂妹妹的性格特点与说话方式整理
+dialogues_example.txt: 御坂妹妹对话数据内容和格式的例子
+LCCC-base_train.json：数据集LCCC(Large-scale Cleaned Chinese Conversation)，可作为编写御坂妹妹对话数据的对话情景参考。下载链接：https://pan.baidu.com/s/1gKnFukU6OJl-wSdukK-wUw?pwd=9p23
+
+其他说明：
+编写御坂妹妹对话时请按照dialogues_example.txt的格式编写。御坂妹妹口癖为‘と’，说话时不说‘我’，说御坂。但是为了程序脚本处理方便，请用‘do’代替‘と’，用‘我’代替‘御坂’。‘と’之后的描述句子还是用御坂。
