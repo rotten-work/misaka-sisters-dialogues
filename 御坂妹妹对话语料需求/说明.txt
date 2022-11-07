@@ -5,3 +5,5 @@ LCCC-base_train.json：数据集LCCC(Large-scale Cleaned Chinese Conversation)�
 
 其他说明：
 编写御坂妹妹对话时请按照dialogues_example.txt的格式编写。御坂妹妹口癖为‘と’，说话时不说‘我’，说御坂。但是为了程序脚本处理方便，请用‘do’代替‘と’，用‘我’代替‘御坂’。‘と’之后的描述句子还是用御坂。
+所有数字转换成可读的形式。如25转化成二十五，10086转化成幺零零八六
+写好的对话用序号标号
